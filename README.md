@@ -1,6 +1,6 @@
 🐍 How to Play the Worm Game
 
-👉 Play here
+👉 Play https://froppydog.github.io/wormgame.github.io/
 
 
 ---
