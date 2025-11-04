@@ -1,3 +1,4 @@
+fixing code
 🐍 How to Play the Worm Game
 
 👉 Play https://froppydog.github.io/wormgame.github.io/
